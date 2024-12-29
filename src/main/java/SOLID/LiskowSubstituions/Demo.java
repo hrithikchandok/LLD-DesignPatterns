@@ -1,4 +1,4 @@
-package org.SOLID.LiskowSubstituions;
+package SOLID.LiskowSubstituions;
 
 public class Demo {
 

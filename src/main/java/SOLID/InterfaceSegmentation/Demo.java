@@ -1,4 +1,4 @@
-package org.SOLID.InterfaceSegmentation;
+package SOLID.InterfaceSegmentation;
 
 public class Demo {
 //    Jo classes ki need hai methods ki unhi ko implement krna chahiye

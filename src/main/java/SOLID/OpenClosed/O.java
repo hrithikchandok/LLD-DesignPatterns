@@ -1,7 +1,7 @@
-package org.SOLID.OpenClosed;
+package SOLID.OpenClosed;
 
 
-import org.SOLID.SingleResponsibility.Invoice;
+import SOLID.SingleResponsibility.Invoice;
 
 public class O {
     //Open for extension and closed for modification

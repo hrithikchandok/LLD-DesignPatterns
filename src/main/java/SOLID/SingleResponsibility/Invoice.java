@@ -1,4 +1,4 @@
-package org.SOLID.SingleResponsibility;
+package SOLID.SingleResponsibility;
 
 class Marker{
     int color;
