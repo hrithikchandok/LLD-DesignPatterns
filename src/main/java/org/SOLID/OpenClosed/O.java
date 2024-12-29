@@ -28,5 +28,5 @@ interface  InvoiceSave{
 //    we dont have to do the modification we will do the extension
 //    we will add in the interface and the separate class will implements
 
-//    "Jo class already live and testable hai -> usko modify mtt kro "
+//    "Jo class already live and testable usko modify mtt kro "
 }

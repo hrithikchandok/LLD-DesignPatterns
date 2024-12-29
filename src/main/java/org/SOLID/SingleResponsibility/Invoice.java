@@ -1,9 +1,5 @@
 package org.SOLID.SingleResponsibility;
 
-public class SingleResponsibilty
-{
-//    A single class should have only one reason to change
-}
 class Marker{
     int color;
     int size;
@@ -16,7 +12,7 @@ class Marker{
     }
 }
 //This is not following the Single Responsiblity as this as three reason to change
-public class Invoice {
+ public class Invoice {
     private Marker marker;
     private int quantity;
 
