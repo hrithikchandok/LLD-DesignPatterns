@@ -19,6 +19,7 @@ public class Store {
 
 
         iphoneObservable.setData(10);
+        iphoneObservable.setData(100);
 
 
     }
