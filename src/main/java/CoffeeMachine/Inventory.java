@@ -37,6 +37,13 @@ public class Inventory
         return stockInventory.getOrDefault(key, 0) >= value;
     }
 
+    @Override
+    public String toString() {
+        return "Inventory{" +
+                "stockInventory=" + stockInventory +
+                '}';
+    }
+
     public void useIngredient(String key, Integer value) {
         removeStock(key, value);
     }

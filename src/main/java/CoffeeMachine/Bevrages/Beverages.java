@@ -41,7 +41,7 @@ public abstract class Beverages {
 
     private boolean canBeCreated(Map<String, Integer> recipe, Inventory inventory) {
         for (Map.Entry<String, Integer> entry : recipe.entrySet()) {
-            System.out.println(entry.getKey() + " " + entry.getValue()+"-> inventory"+inventory.isAvailable(entry.getKey(), entry.getValue()));
+//            System.out.println(entry.getKey() + " " + entry.getValue()+"-> inventory"+inventory.isAvailable(entry.getKey(), entry.getValue()));
             if (!inventory.isAvailable(entry.getKey(), entry.getValue())) {
                 return false;
             }
