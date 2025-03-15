@@ -7,6 +7,16 @@
     <groupId>org.FreightFox</groupId>
     <artifactId>LLDDesign</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <!-- MySQL JDBC Driver -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version> <!-- Update if necessary -->
+        </dependency>
+
+        <!-- Add other dependencies if needed -->
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
