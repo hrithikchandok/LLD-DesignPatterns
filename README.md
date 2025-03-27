@@ -5,4 +5,6 @@ https://enginebogie.com/public/charchaa/post/most-popular-java-concurrency-and-m
 <br>
 Resources
 LLD (ALGOMASTER )
+<br>
+SQL -> Love Babar
 
