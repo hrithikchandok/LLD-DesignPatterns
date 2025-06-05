@@ -10,3 +10,4 @@ SQL -> Love Babar
 
 Site -> https://java-design-patterns.com/patterns/retry/#programmatic-example-of-retry-pattern-in-java
 Retry Mechanishm -> https://medium.com/@adriancanton/spring-retry-implementing-retries-in-your-spring-boot-applications-43dd4c52f93f
+Books -> https://welib.org/slow_download/05f5e2e0b776555982fda83405ecd73a/0/0
